@@ -1,0 +1,25 @@
+#label-one{
+    color: purple;
+}
+
+#label-two{
+    color: green;
+}
+
+
+.mytextclass{
+    color: purple;
+    font-size:30px;
+
+}
+#textone{
+    background-color: green;
+}
+
+.mybadclass{
+    color: red;
+}
+
+.mybadclass{
+    background-color: plum;
+}
